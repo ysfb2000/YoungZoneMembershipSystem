@@ -26,4 +26,4 @@ The project was developed several years ago. Since YoungZone has since ceased op
 
 <img src="https://github.com/ysfb2000/YoungZoneMembershipSystem/blob/main/YoungZone_CreditTransfer.jpg" alt="Logo" width="100%"/>
 
-<img src="https://github.com/ysfb2000/YoungZoneMembershipSystem/blob/main/YoungZone_GoodsManagement.jpg" alt="Logo" width="100%"/>
+<img src="https://github.com/ysfb2000/YoungZoneMembershipSystem/blob/main/YoungZone_All.jpg" alt="Logo" width="100%"/>
