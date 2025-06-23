@@ -1,0 +1,3 @@
+D:\XJL\Sync\Work\洋葱会员系统2010盛大版\洋葱会员系统2010源程序\YzMember\bin\Debug\YzMember.exe.config
+D:\XJL\Sync\Work\洋葱会员系统2010盛大版\洋葱会员系统2010源程序\YzMember\obj\Debug\YzMember.exe
+D:\XJL\Sync\Work\洋葱会员系统2010盛大版\洋葱会员系统2010源程序\YzMember\obj\Debug\YzMember.pdb

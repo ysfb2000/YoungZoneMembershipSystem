@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{24F4111C-BA0B-4D79-BDCB-9BE206E26021}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YzMember</RootNamespace>
+    <AssemblyName>YzMember</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>dll\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization">
+      <HintPath>dll\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel">
+      <HintPath>dll\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>dll\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ActivedGoodsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActivedGoodsForm.Designer.cs">
+      <DependentUpon>ActivedGoodsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAdministratorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAdministratorForm.Designer.cs">
+      <DependentUpon>AddAdministratorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddGoodsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddGoodsForm.Designer.cs">
+      <DependentUpon>AddGoodsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddGoodsKindForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddGoodsKindForm.Designer.cs">
+      <DependentUpon>AddGoodsKindForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPointForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPointForm.Designer.cs">
+      <DependentUpon>AddPointForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddShopForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddShopForm.Designer.cs">
+      <DependentUpon>AddShopForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdministratorType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdministratorType.Designer.cs">
+      <DependentUpon>AdministratorType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalendarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalendarForm.Designer.cs">
+      <DependentUpon>CalendarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CancelCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancelCardForm.Designer.cs">
+      <DependentUpon>CancelCardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePasswordForm.Designer.cs">
+      <DependentUpon>ChangePasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ExchangeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExchangeForm.Designer.cs">
+      <DependentUpon>ExchangeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExchangeRePrintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExchangeRePrintForm.Designer.cs">
+      <DependentUpon>ExchangeRePrintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoodsInOutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GoodsInOutForm.Designer.cs">
+      <DependentUpon>GoodsInOutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MakeCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MakeCardForm.Designer.cs">
+      <DependentUpon>MakeCardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovePointForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovePointForm.Designer.cs">
+      <DependentUpon>MovePointForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewGoodsKindForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewGoodsKindForm.Designer.cs">
+      <DependentUpon>NewGoodsKindForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperationListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OperationListForm.Designer.cs">
+      <DependentUpon>OperationListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrinterManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrinterManagementForm.Designer.cs">
+      <DependentUpon>PrinterManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegMemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegMemberForm.Designer.cs">
+      <DependentUpon>RegMemberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm.Designer.cs">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportMemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportMemberForm.Designer.cs">
+      <DependentUpon>ReportMemberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportMonthlyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportMonthlyForm.Designer.cs">
+      <DependentUpon>ReportMonthlyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RePrintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RePrintForm.Designer.cs">
+      <DependentUpon>RePrintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RightsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RightsForm.Designer.cs">
+      <DependentUpon>RightsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForCardNoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForCardNoForm.Designer.cs">
+      <DependentUpon>SearchForCardNoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShopForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShopForm.Designer.cs">
+      <DependentUpon>ShopForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StoreListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StoreListForm.Designer.cs">
+      <DependentUpon>StoreListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TradeDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TradeDetailForm.Designer.cs">
+      <DependentUpon>TradeDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yzDataSet.cs">
+      <DependentUpon>yzDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="yzDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>yzDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="YzMemberClass1.cs" />
+    <Compile Include="Yz_Member_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yz_Member_Main.Designer.cs">
+      <DependentUpon>Yz_Member_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActivedGoodsForm.resx">
+      <DependentUpon>ActivedGoodsForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAdministratorForm.resx">
+      <DependentUpon>AddAdministratorForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddGoodsForm.resx">
+      <DependentUpon>AddGoodsForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddGoodsKindForm.resx">
+      <DependentUpon>AddGoodsKindForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPointForm.resx">
+      <DependentUpon>AddPointForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddShopForm.resx">
+      <DependentUpon>AddShopForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdministratorType.resx">
+      <DependentUpon>AdministratorType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalendarForm.resx">
+      <DependentUpon>CalendarForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelCardForm.resx">
+      <DependentUpon>CancelCardForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePasswordForm.resx">
+      <DependentUpon>ChangePasswordForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExchangeForm.resx">
+      <DependentUpon>ExchangeForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExchangeRePrintForm.resx">
+      <DependentUpon>ExchangeRePrintForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GoodsInOutForm.resx">
+      <DependentUpon>GoodsInOutForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MakeCardForm.resx">
+      <DependentUpon>MakeCardForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovePointForm.resx">
+      <DependentUpon>MovePointForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewGoodsKindForm.resx">
+      <DependentUpon>NewGoodsKindForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperationListForm.resx">
+      <DependentUpon>OperationListForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrinterManagementForm.resx">
+      <DependentUpon>PrinterManagementForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegMemberForm.resx">
+      <DependentUpon>RegMemberForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm.resx">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportMember.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportMemberForm.resx">
+      <DependentUpon>ReportMemberForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportMonth.rdlc" />
+    <EmbeddedResource Include="ReportMonthlyForm.resx">
+      <DependentUpon>ReportMonthlyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTotal.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RePrintForm.resx">
+      <DependentUpon>RePrintForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RightsForm.resx">
+      <DependentUpon>RightsForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForCardNoForm.resx">
+      <DependentUpon>SearchForCardNoForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShopForm.resx">
+      <DependentUpon>ShopForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StoreListForm.resx">
+      <DependentUpon>StoreListForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TradeDetailForm.resx">
+      <DependentUpon>TradeDetailForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yz_Member_Main.resx">
+      <DependentUpon>Yz_Member_Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubGoodsForm.resx">
+      <DependentUpon>SubGoodsForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogList.resx">
+      <DependentUpon>AdminLogList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportLostForm.resx">
+      <DependentUpon>ReportLostForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelLostForm.resx">
+      <DependentUpon>CancelLostForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoMemberForm.resx">
+      <DependentUpon>InfoMemberForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPointRePrintForm.resx">
+      <DependentUpon>AddPointRePrintForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAdministratorForm.resx">
+      <DependentUpon>NewAdministratorForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditMemberForm.resx">
+      <DependentUpon>EditMemberForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReCoverCardForm.resx">
+      <DependentUpon>ReCoverCardForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RePrintForm2.resx">
+      <DependentUpon>RePrintForm2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="yzDataSet.xsc">
+      <DependentUpon>yzDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="yzDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>yzDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="yzDataSet.xss">
+      <DependentUpon>yzDataSet.xsd</DependentUpon>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SubGoodsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubGoodsForm.Designer.cs">
+      <DependentUpon>SubGoodsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLogList.Designer.cs">
+      <DependentUpon>AdminLogList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportLostForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportLostForm.Designer.cs">
+      <DependentUpon>ReportLostForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CancelLostForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancelLostForm.Designer.cs">
+      <DependentUpon>CancelLostForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoMemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoMemberForm.Designer.cs">
+      <DependentUpon>InfoMemberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPointRePrintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPointRePrintForm.Designer.cs">
+      <DependentUpon>AddPointRePrintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewAdministratorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewAdministratorForm.Designer.cs">
+      <DependentUpon>NewAdministratorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditMemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditMemberForm.Designer.cs">
+      <DependentUpon>EditMemberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReCoverCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReCoverCardForm.Designer.cs">
+      <DependentUpon>ReCoverCardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RePrintForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RePrintForm2.Designer.cs">
+      <DependentUpon>RePrintForm2.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="dll\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

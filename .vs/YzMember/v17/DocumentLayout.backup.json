@@ -1,0 +1,756 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\newgoodskindform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\newgoodskindform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\activedgoodsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\activedgoodsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\addgoodsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\addgoodsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\addpointreprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\addpointreprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\addpointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\addpointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\editmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\editmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\exchangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\exchangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\exchangereprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\exchangereprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\goodsinoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\goodsinoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\adminloglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\adminloglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\administratortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\administratortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\addshopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\addshopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\addgoodskindform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\addgoodskindform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\regmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\regmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\yzmemberclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\yzmemberclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\addpointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\addpointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\cancelcardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\cancelcardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\yz_member_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\yz_member_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\yz_member_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\yz_member_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\yz_member_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\yz_member_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\reportmonthlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\reportmonthlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\reportmemberform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\reportmemberform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\reportmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\reportmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|c:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\printermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\printermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\makecardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\makecardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\movepointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\movepointform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\newadministratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\newadministratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\operationlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\operationlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\cancellostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\cancellostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\cancelcardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\cancelcardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\calendarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\calendarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\addadministratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\addadministratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\reportmember.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\reportmember.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\reportmonth.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\reportmonth.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\tradedetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\tradedetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\yzdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\yzdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\reportmonthlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\reportmonthlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\yzmember\\reportlostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24F4111C-BA0B-4D79-BDCB-9BE206E26021}|YzMember\\YzMember.csproj|solutionrelative:yzmember\\reportlostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditMemberForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\EditMemberForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\EditMemberForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\EditMemberForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\EditMemberForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:32:49.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPointForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddPointForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\AddPointForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddPointForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\AddPointForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:03:41.176Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddPointRePrintForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddPointRePrintForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\AddPointRePrintForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddPointRePrintForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\AddPointRePrintForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:03:49.217Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExchangeForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ExchangeForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\ExchangeForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ExchangeForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\ExchangeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:04:06.812Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddGoodsForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddGoodsForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\AddGoodsForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddGoodsForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\AddGoodsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:00:46.36Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActivedGoodsForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ActivedGoodsForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\ActivedGoodsForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ActivedGoodsForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\ActivedGoodsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:00:48.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewGoodsKindForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\NewGoodsKindForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\NewGoodsKindForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\NewGoodsKindForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\NewGoodsKindForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:04:17.145Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExchangeRePrintForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ExchangeRePrintForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\ExchangeRePrintForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ExchangeRePrintForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\ExchangeRePrintForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:32:45.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoodsInOutForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\GoodsInOutForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\GoodsInOutForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\GoodsInOutForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\GoodsInOutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:32:43.491Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddGoodsKindForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddGoodsKindForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\AddGoodsKindForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddGoodsKindForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\AddGoodsKindForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:03:36.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddShopForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddShopForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\AddShopForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddShopForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\AddShopForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:00:44.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdministratorType.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AdministratorType.cs",
+              "RelativeDocumentMoniker": "YzMember\\AdministratorType.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AdministratorType.cs [Design]",
+              "RelativeToolTip": "YzMember\\AdministratorType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:03:52.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminLogList.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AdminLogList.cs",
+              "RelativeDocumentMoniker": "YzMember\\AdminLogList.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AdminLogList.cs [Design]",
+              "RelativeToolTip": "YzMember\\AdminLogList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:03:53.797Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegMemberForm.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\RegMemberForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\RegMemberForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\RegMemberForm.cs",
+              "RelativeToolTip": "YzMember\\RegMemberForm.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAASwMgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:21:40.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\ReportForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportForm.cs",
+              "RelativeToolTip": "YzMember\\ReportForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:24:22.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReportMemberForm.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMemberForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\ReportMemberForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMemberForm.cs",
+              "RelativeToolTip": "YzMember\\ReportMemberForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:29:01.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReportMemberForm.Designer.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMemberForm.Designer.cs",
+              "RelativeDocumentMoniker": "YzMember\\ReportMemberForm.Designer.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMemberForm.Designer.cs",
+              "RelativeToolTip": "YzMember\\ReportMemberForm.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwIYBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:29:02.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "YzMemberClass1.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\YzMemberClass1.cs",
+              "RelativeDocumentMoniker": "YzMember\\YzMemberClass1.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\YzMemberClass1.cs",
+              "RelativeToolTip": "YzMember\\YzMemberClass1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:55:34.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Yz_Member_Main.Designer.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\Yz_Member_Main.Designer.cs",
+              "RelativeDocumentMoniker": "YzMember\\Yz_Member_Main.Designer.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\Yz_Member_Main.Designer.cs",
+              "RelativeToolTip": "YzMember\\Yz_Member_Main.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:06:37.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Yz_Member_Main.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\Yz_Member_Main.cs",
+              "RelativeDocumentMoniker": "YzMember\\Yz_Member_Main.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\Yz_Member_Main.cs",
+              "RelativeToolTip": "YzMember\\Yz_Member_Main.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAAAAFQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:07:00.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddPointForm.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddPointForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\AddPointForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddPointForm.cs",
+              "RelativeToolTip": "YzMember\\AddPointForm.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAASwGoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:19:45.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CancelCardForm.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\CancelCardForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\CancelCardForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\CancelCardForm.cs",
+              "RelativeToolTip": "YzMember\\CancelCardForm.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAIAwwGwAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:19:56.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\app.config",
+              "RelativeDocumentMoniker": "YzMember\\app.config",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\app.config",
+              "RelativeToolTip": "YzMember\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-23T04:05:05.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MovePointForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\MovePointForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\MovePointForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\MovePointForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\MovePointForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:04:20.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NewAdministratorForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\NewAdministratorForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\NewAdministratorForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\NewAdministratorForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\NewAdministratorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:04:18.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Yz_Member_Main.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\Yz_Member_Main.cs",
+              "RelativeDocumentMoniker": "YzMember\\Yz_Member_Main.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\Yz_Member_Main.cs [Design]",
+              "RelativeToolTip": "YzMember\\Yz_Member_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:02:37.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportMonthlyForm.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMonthlyForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\ReportMonthlyForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMonthlyForm.cs",
+              "RelativeToolTip": "YzMember\\ReportMonthlyForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:29:04.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\LoginForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\LoginForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\LoginForm.cs",
+              "RelativeToolTip": "YzMember\\LoginForm.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwHUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:31:21.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\LoginForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\LoginForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\LoginForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:04:28.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PrinterManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\PrinterManagementForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\PrinterManagementForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\PrinterManagementForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\PrinterManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:04:13.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CancelLostForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\CancelLostForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\CancelLostForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\CancelLostForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\CancelLostForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:04:03.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CancelCardForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\CancelCardForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\CancelCardForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\CancelCardForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\CancelCardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:03:58.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CalendarForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\CalendarForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\CalendarForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\CalendarForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\CalendarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:03:57.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MakeCardForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\MakeCardForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\MakeCardForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\MakeCardForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\MakeCardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:03:11.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OperationListForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\OperationListForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\OperationListForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\OperationListForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\OperationListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:00:51.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddAdministratorForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddAdministratorForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\AddAdministratorForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AddAdministratorForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\AddAdministratorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:03:25.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ReportMember.rdlc",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMember.rdlc",
+              "RelativeDocumentMoniker": "YzMember\\ReportMember.rdlc",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMember.rdlc",
+              "RelativeToolTip": "YzMember\\ReportMember.rdlc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-06-23T04:03:05.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ReportMonth.rdlc",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMonth.rdlc",
+              "RelativeDocumentMoniker": "YzMember\\ReportMonth.rdlc",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMonth.rdlc",
+              "RelativeToolTip": "YzMember\\ReportMonth.rdlc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-06-23T04:02:58.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "YzMember\\DataSet1.xsd",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\DataSet1.xsd",
+              "RelativeToolTip": "YzMember\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-06-23T04:02:52.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\Program.cs",
+              "RelativeDocumentMoniker": "YzMember\\Program.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\Program.cs",
+              "RelativeToolTip": "YzMember\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:02:46.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TradeDetailForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\TradeDetailForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\TradeDetailForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\TradeDetailForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\TradeDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:02:44.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "yzDataSet.xsd",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\yzDataSet.xsd",
+              "RelativeDocumentMoniker": "YzMember\\yzDataSet.xsd",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\yzDataSet.xsd*",
+              "RelativeToolTip": "YzMember\\yzDataSet.xsd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-06-23T04:02:04.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AboutForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AboutForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\AboutForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\AboutForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\AboutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:00:33.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReportMonthlyForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMonthlyForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\ReportMonthlyForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportMonthlyForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\ReportMonthlyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:00:58.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ReportLostForm.cs [Design]",
+              "DocumentMoniker": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportLostForm.cs",
+              "RelativeDocumentMoniker": "YzMember\\ReportLostForm.cs",
+              "ToolTip": "C:\\baidunetdiskdownload\\\u6D0B\u8471\u4F1A\u5458\u7CFB\u7EDF2010\u6E90\u7A0B\u5E8F\\YzMember\\ReportLostForm.cs [Design]",
+              "RelativeToolTip": "YzMember\\ReportLostForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:00:54.219Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
