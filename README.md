@@ -21,3 +21,5 @@ Basic analytics and reporting
 The project was developed several years ago. Since YoungZone has since ceased operations, I have made the source code available on GitHub for reference and learning purposes.
 
 <img src="https://github.com/ysfb2000/YoungZoneMembershipSystem/blob/main/YoungZone_Login.jpg" alt="Logo" width="100%"/>
+
+<img src="https://github.com/ysfb2000/YoungZoneMembershipSystem/blob/main/YoungZone_GoodsManagement.jpg" alt="Logo" width="100%"/>
